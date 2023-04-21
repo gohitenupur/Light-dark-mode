@@ -1,8 +1,9 @@
 module.exports = {
+  darkMode: 'class',
   content: ['./src/**/*.{html,js}'],
   theme: {
     fontFamily: {
-      primary: 'Raleway',
+      primary: 'Rubik',
     },
     container: {
       padding: {
