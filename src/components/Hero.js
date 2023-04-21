@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 // import logo 
 import logoDark from "../assets/img/logo-dark.svg"
-import logolight from "../assets/img/logo-white.svg"
+import logoLight from "../assets/img/logo-white.svg"
 // import icons
 import { BsFillSunFill, BsMoonFill, BsCheck } from "react-icons/bs";
 
