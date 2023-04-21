@@ -2,7 +2,7 @@ module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
     fontFamily: {
-      primary: 'Rubik',
+      primary: 'Raleway',
     },
     container: {
       padding: {
